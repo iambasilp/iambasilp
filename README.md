@@ -1,4 +1,4 @@
-## Hola, I'm [Basil Pulikuth!](https://basilp.com) 👋
+## Halo, I'm [Basil Pulikuth!](https://basilp.com) 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
 
