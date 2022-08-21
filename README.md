@@ -25,14 +25,14 @@
 <br/>
 
 
-- 🔭 I’m currently working on eCOMMERCE WEBSITE.
+- 🔭 I’m currently working on Pharmaceutical Website.
 - 🌱 I’m currently learning more about Frontent.
-<!-- - 👯 I’m looking to collaborate on [Youtube](https://youtube.com/mtechviral). -->
-<!-- - 🤔 I’m looking for help with VelocityX documentation. -->
+<!-- - 👯 I’m looking to collaborate on ogitofoods.com. -->
+<!-- - 🤔 I’m looking for help with React documentation. -->
 - 💬 Ask me about Css, Javascript or any tech-related stuff.
 - 📫 How to reach me: [Twitter - @BPulikuth](https://twitter.com/BPulikuth) , [Gmail - @Basil](basil)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I spend almost 12 hours listening to songs every day.
+
 
 
 
