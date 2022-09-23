@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Basil Pulikuth</h1>
-<h3 align="center">I’m a react developer based in bangalore, India curious to learn more about developing scalable distributed systems, loves problem solving and cares about writing readable as well as maintainable code.</h3>
+
 
 - 🔭 I’m currently working on [Pharmasutical Website](https://iambasilp.github.io/pharmaceutical-test1/)
 
