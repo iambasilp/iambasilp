@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Basil Pulikuth</h1>
 <h3 align="center">I’m a react developer based in Kochi, Kerala, curious to learn more about developing scalable distributed systems, loves problem solving and cares about writing readable as well as maintainable code.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iambasilp" alt="iambasilp" /></a> </p>
-
 - 🔭 I’m currently working on [Pharmasutical Website](https://iambasilp.github.io/pharmaceutical-test1/)
 
 - 🌱 I’m currently learning **React Js**
