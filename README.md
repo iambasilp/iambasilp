@@ -30,7 +30,6 @@
 <a href="https://stackoverflow.com/users/19654391/basil-pulikuth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/19654391/basil-pulikuth" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/mr.basil_pkt/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/mr.basil_pkt/" height="30" width="40" /></a>
 <a href="https://dribbble.com/iambasilp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/iambasilp" height="30" width="40" /></a>
-<a href="[[https://hashnode.com/https://hashnode.com/@iambasilp](https://hashnode.com/@iambasilp)](https://hashnode.com/@iambasilp)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://hashnode.com/@iambasilp" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
