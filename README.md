@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Basil Pulikuth</h1>
 <h3 align="center">I’m a react developer based in Kochi, Kerala, curious to learn more about developing scalable distributed systems, loves problem solving and cares about writing readable as well as maintainable code.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iambasilp&label=Profile%20views&color=0e75b6&style=flat" alt="iambasilp" /> </p>
-
-<p align="left"> <a href="https://twitter.com/bpulikuth" target="blank"><img src="https://img.shields.io/twitter/follow/bpulikuth?logo=twitter&style=for-the-badge" alt="bpulikuth" /></a> </p>
 
 - 🔭 I’m currently working on [Pharmasutical Website](https://iambasilp.github.io/pharmaceutical-test1/)
 
@@ -21,7 +18,7 @@
 
 - 📄 Know about my experiences [wwww.google.com](wwww.google.com)
 
-- ⚡ Fun fact **I think iam funny**
+- ⚡ Fun fact **I think iam curious to learn**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
