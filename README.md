@@ -1,4 +1,4 @@
-[![MasterHead](https://media.giphy.com/media/XTAqdwCL2oEus/giphy.gif)](https://basil.social)
+[![MasterHead](https://media.licdn.com/dms/image/C5612AQFB8TZNtGdTgg/article-cover_image-shrink_600_2000/0/1634505535086?e=2147483647&v=beta&t=gtTZghsrqcCoz8QjCZYfkX4Zrxr9Gv7Y3msY29EP0MA)](https://basil.social)
 <h1 align="center">Hi 👋, I'm Basil Pulikuth</h1>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
