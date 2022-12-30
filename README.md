@@ -4,10 +4,9 @@
 I am a full-stack developer with a passion for building modern, scalable web applications using React. I have years of experience in the field, and am proficient in all stages of the development lifecycle, from conceptualization to deployment.
 
 ## Skills
-- 💻 Proficiency in programming languages: JavaScript, HTML, CSS
-- 🌟 Expertise in frameworks: React, Redux, Next.js
-- 🗄 Experience with databases: MongoDB, MySQL, PostgreSQL
-- 🛠 Proficiency in tools: Git, Webpack, Babel, AWS, Azure
+- 💻 Proficiency in programming languages: ![JavaScript](https://img.shields.io/badge/-JavaScript-black.svg?logo=javascript&style=flat) ![HTML](https://img.shields.io/badge/-HTML-black.svg?logo=html5&style=flat) ![CSS](https://img.shields.io/badge/-CSS-black.svg?logo=css3&style=flat)
+- 🌟 Expertise in frameworks: ![React](https://img.shields.io/badge/-React-black.svg?logo=react&style=flat) ![Redux](https://img.shields.io/badge/-Redux-black.svg?logo=redux&style=flat) ![Next.js](https://img.shields.io/badge/-Next.js-black.svg?logo=next.js&style=flat)
+- 🗄 Experience with databases: ![MongoDB](https://img.shields.io/badge/-MongoDB-black.svg?logo=mongodb&style=flat) ![MySQL](https://img.shields.io/badge/-MySQL-black.svg?logo=mysql&style=flat) ![PostgreSQL](https://img.shields.io/
 
 ## Projects
 
