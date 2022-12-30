@@ -6,25 +6,25 @@ I am a full-stack developer with a passion for building modern, scalable web app
 # Skills
 
 ## React
-![React logo](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React logo" width="25"/>
 - Proficiency with React hooks and function components
 - Experience with React Router for building single-page applications
 - Familiarity with the React context API for managing global state
 
 ## JavaScript
-![JavaScript logo](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png)
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript logo" width="25"/>
 - Experience with modern JavaScript syntax, including arrow functions and destructuring
 - Familiarity with asynchronous programming techniques, such as Promises and async/await
 - Knowledge of common JavaScript design patterns, such as the factory pattern and the observer pattern
 
 ## HTML/CSS
-![HTML5 logo](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png) ![CSS3 logo](https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" alt="HTML5 logo" width="25"/> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS3 logo" width="25"/>
 - Proficiency with responsive web design techniques, such as media queries and flexible grids
 - Experience with CSS preprocessors, such as Sass or Less
 - Familiarity with CSS layout techniques, such as flexbox and grid
 
 ## Testing
-![Testing icon](https://icon-library.com/images/testing-icon/testing-icon-20.jpg)
+<img src="https://icon-library.com/images/testing-icon/testing-icon-20.jpg" alt="Testing icon" width="25"/>
 - Experience with unit testing frameworks, such as Jest or Mocha
 - Familiarity with end-to-end testing tools, such as Cypress or Selenium
 - Knowledge of testing best practices, such as test-driven development (TDD)
