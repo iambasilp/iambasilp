@@ -3,13 +3,6 @@
 
 I am a full-stack developer with a passion for building modern, scalable web applications using React. I have years of experience in the field, and am proficient in all stages of the development lifecycle, from conceptualization to deployment.
 
-Sure! Here is a sample README that you can use as a starting point for creating your own GitHub profile README as a React developer, with language icons and a well-structured layout:
-
-Copy code
-# My Name
-
-I am a full-stack developer with a passion for building modern, scalable web applications using React. I have years of experience in the field, and am proficient in all stages of the development lifecycle, from conceptualization to deployment.
-
 ## Skills
 
 ### Proficiency in programming languages
@@ -25,31 +18,24 @@ I am a full-stack developer with a passion for building modern, scalable web app
 ### Experience with databases
 - ![MongoDB](https://img.shields.io/badge/-Mongo
 
-## Projects
+[![GitHub followers](https://img.shields.io/github/followers/your-username.svg?style=social&label=Follow)](https://github.com/your-username)
+[![Twitter Follow](https://img.shields.io/twitter/follow/your-username.svg?style=social)](https://twitter.com/your-username)
 
-### Project 1
-🌟 A cloud-based project management platform for teams. Built using React, GraphQL, and Serverless functions.
+## Progress
 
-### Project 2
-💼 A real-time chat application for businesses. Built using React, Socket.io, and TypeScript.
-
-### Project 3
-📊 A data visualization tool for analyzing and presenting large datasets. Built using React, D3.js, and Ant Design.
+- Completed a full-stack web development course and built several projects using React, Node.js, and MongoDB
+- Currently learning GraphQL and studying for the AWS Certified Developer – Associate exam
 
 ## Contact
 
 I am always looking for new challenges and opportunities to apply my skills and knowledge to solve complex problems. If you have a project that you think I would be a good fit for, don't hesitate to reach out to me on LinkedIn or email.
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555)](https://www.linkedin.com/in/myname)
 [![Email](https://img.shields.io/badge/-Email-black.svg?style=flat-square&logo=gmail&colorB=555)](mailto:myname@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555)](https://www.linkedin.com/in/myname)
 
 ## Follow me on
 
 [![GitHub followers](https://img.shields.io/github/followers/myname.svg?style=social&label=Follow)](https://github.com/myname)
 [![Twitter Follow](https://img.shields.io/twitter/follow/myname.svg?style=social&label=Follow)](https://twitter.com/myname)
 
-## About me
-
-I have always been passionate about technology and problem-solving, and I love using my skills and knowledge to build innovative and useful applications. In my free time, I enjoy staying up-to-date with the latest trends in web development, and I also enjoy spending time outdoors and playing sports.
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myname&layout=compact)](https://github.com/myname)
+Feel free to reach out and connect! I'm always looking to collaborate and learn from other developers.
