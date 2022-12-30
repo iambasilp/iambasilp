@@ -3,20 +3,32 @@
 
 I am a full-stack developer with a passion for building modern, scalable web applications using React. I have years of experience in the field, and am proficient in all stages of the development lifecycle, from conceptualization to deployment.
 
-## Skills
+# Skills
 
-### Proficiency in programming languages
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-black.svg?logo=javascript&style=flat)
-- ![HTML](https://img.shields.io/badge/-HTML-black.svg?logo=html5&style=flat)
-- ![CSS](https://img.shields.io/badge/-CSS-black.svg?logo=css3&style=flat)
+## React
+![React logo](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)
+- Proficiency with React hooks and function components
+- Experience with React Router for building single-page applications
+- Familiarity with the React context API for managing global state
 
-### Expertise in frameworks
-- ![React](https://img.shields.io/badge/-React-black.svg?logo=react&style=flat)
-- ![Redux](https://img.shields.io/badge/-Redux-black.svg?logo=redux&style=flat)
-- ![Next.js](https://img.shields.io/badge/-Next.js-black.svg?logo=next.js&style=flat)
+## JavaScript
+![JavaScript logo](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png)
+- Experience with modern JavaScript syntax, including arrow functions and destructuring
+- Familiarity with asynchronous programming techniques, such as Promises and async/await
+- Knowledge of common JavaScript design patterns, such as the factory pattern and the observer pattern
 
-### Experience with databases
-- ![MongoDB](https://img.shields.io/badge/-Mongo
+## HTML/CSS
+![HTML5 logo](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png) ![CSS3 logo](https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg)
+- Proficiency with responsive web design techniques, such as media queries and flexible grids
+- Experience with CSS preprocessors, such as Sass or Less
+- Familiarity with CSS layout techniques, such as flexbox and grid
+
+## Testing
+![Testing icon](https://icon-library.com/images/testing-icon/testing-icon-20.jpg)
+- Experience with unit testing frameworks, such as Jest or Mocha
+- Familiarity with end-to-end testing tools, such as Cypress or Selenium
+- Knowledge of testing best practices, such as test-driven development (TDD)
+
 
 [![GitHub followers](https://img.shields.io/github/followers/your-username.svg?style=social&label=Follow)](https://github.com/your-username)
 [![Twitter Follow](https://img.shields.io/twitter/follow/your-username.svg?style=social)](https://twitter.com/your-username)
