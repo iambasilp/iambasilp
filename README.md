@@ -30,3 +30,6 @@ I am a full-stack developer with a passion for building modern, scalable web app
 
 I am always looking for new challenges and opportunities to apply my skills and knowledge to solve complex problems. If you have a project that you think I would be a good fit for, don't hesitate to reach out to me on LinkedIn or email.
 
+[![Email](https://img.shields.io/badge/-Email-black.svg?style=flat-square&logo=gmail&colorB=555)](mailto:myname@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555)](https://www.linkedin.com/in/myname)
+
