@@ -41,19 +41,17 @@ I'm Basil Pulikuth a Full Stack Web Developer and Content Creator on [Youtube](h
 
 <details>
 
-<summary>
 
-  More stuff about me
 
-</summary>
+
+
+
 
 <br >
 
-I love sharing knowledge and putting tutorials, courses and posts together for helping other developers, and tjat's why CoderOne Youtube Channel exists!
+I love 
 
-#### What is BBCoder?
 
-CoderOne is a Instagram for learning Web development, coding and design. Including new technologies and frameworks and anything really related to development world.
 
 #### Coding Stats
 
@@ -61,15 +59,15 @@ CoderOne is a Instagram for learning Web development, coding and design. Includi
 
 ```text
 
-TypeScript   15 hrs 41 mins  ████████████████████▓░░░░   82.29 % 
+React Js       ██████████████▓░░░░░░░░░░   68.29 % 
 
-HTML         1 hr 50 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
+JavaScript     ██████████████████░░░░░░▒   75.61 % 
 
-Markdown     1 hr 27 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
+Scss           ████████████████████░░░░░   80.63 % 
 
-Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+Html           ████████████████████████░   98.25 % 
 
-YAML         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+NPM            ███████████████░░░░░░░░░░   66.19 % 
 
 ```
 
