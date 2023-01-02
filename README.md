@@ -21,4 +21,12 @@ I am a full-stack developer with a passion for building modern, scalable web app
 ---
 [![](https://visitcount.itsvg.in/api?id=iambasilp&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## Progress
+
+- Completed a full-stack web development course and built several projects using React, Node.js, and MongoDB
+- Currently learning GraphQL and studying for the AWS Certified Developer – Associate exam
+
+## Contact
+
+I am always looking for new challenges and opportunities to apply my skills and knowledge to solve complex problems. If you have a project that you think I would be a good fit for, don't hesitate to reach out to me on LinkedIn or email.
 
