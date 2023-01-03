@@ -10,7 +10,7 @@ I am a full-stack developer with a passion for building modern, scalable web app
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently working at @Toptal
+- 🔭 I’m currently working with React JS 
 
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 
