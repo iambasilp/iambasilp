@@ -36,16 +36,6 @@ I am a full-stack developer with a passion for building modern, scalable web app
 
 
 
-
-
-
-
-<br >
-
-I love 
-
-
-
 #### Coding Stats
 
 <!--START_SECTION:waka-->
