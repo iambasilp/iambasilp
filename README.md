@@ -35,7 +35,7 @@ I'm an independent full-stack web developer, specializing in the MERN stack, wit
 <img align="left" alt="Node.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js: A JavaScript runtime built on Chrome's V8 JavaScript engine" />
 
 <!-- Express.js -->
-<img align="left" alt="Express.js" width="30px" style="padding-right:10px; filter: invert(1);" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express.js: A web application framework for Node.js" />
+<img align="left" alt="Express.js" width="30px" style="padding-right:10px; border:1px solid white; filter: invert(1);" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express.js: A web application framework for Node.js" />
 
 <!-- MongoDB -->
 <img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB: A NoSQL database program" />
