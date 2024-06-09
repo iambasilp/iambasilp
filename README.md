@@ -5,7 +5,7 @@
 I'm an independent full-stack web developer, specializing in the MERN stack, with a passion for solving problems in unconventional ways. From ideation to implementation, I thrive on building robust and innovative solutions that address real-world challenges. With a keen eye for detail and a knack for thinking outside the box, I approach each project with the determination to uncover the root cause of issues and implement unique fixes. While my focus is primarily on web development, I'm constantly seeking new opportunities to apply my skills and make a meaningful impact in the digital landscape.
 
 <p align="left">
-   <a href="https://www.linkedin.com/in/your-linkedin-profile" title="Connect with me on LinkedIn">
+   <a href="https://www.linkedin.com/in/iambasilp" title="Connect with me on LinkedIn">
       <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
    <a href="https://twitter.com/your-twitter-handle" title="Follow me on Twitter">
       <img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a> 
