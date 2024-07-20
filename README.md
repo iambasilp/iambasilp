@@ -7,9 +7,7 @@ I'm an independent full-stack web developer, specializing in the MERN stack, wit
 <p align="left">
    <a href="https://www.linkedin.com/in/iambasilp" title="Connect with me on LinkedIn">
       <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
-   <a href="https://twitter.com/your-twitter-handle" title="Follow me on Twitter">
-      <img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a> 
-   <a href="https://your-personal-website.com" title="Visit my personal website">
+   <a href="https://personal-portfolio-nextjs-kappa.vercel.app" title="Visit my personal website">
       <img alt="Personal Website" src="https://img.shields.io/badge/-Personal%20Website-FF5733?style=for-the-badge"/></a> 
    <a href="https://link-to-your-resume.pdf" title="View my resume">
       <img alt="Resume" src="https://img.shields.io/badge/-Resume-14455A?style=for-the-badge"/></a>
