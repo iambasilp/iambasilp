@@ -58,21 +58,22 @@ I'm an independent full-stack web developer specializing in the MERN stack. I th
 
 ### 🚀 Highlighted Projects
 
-- **[Project Name](link-to-project)**
+- **[YouTube Clone](link-to-your-youtube-clone-project)**
   <p align="left">
-    <img src="./images/YouTube_5.o.png" alt="Project Name Thumbnail" width="300" height="auto" />
+    <img src="./images/YouTube_5.o.png" alt="YouTube Clone Thumbnail" width="300" height="auto" />
   </p>
-  - **Description:** A brief overview of the project, its purpose, and what makes it stand out.
-  - **Key Features:** List of key features or functionalities.
-  - **Technologies Used:** Technologies or tools used in the project.
+  - Description: A YouTube clone that mimics the functionality and user interface of the popular video-sharing platform. 
+  - Key Features: Video streaming, user authentication, video uploads, and commenting.
+  - Technologies Used: React, Node.js, Express, MongoDB, JWT for authentication.
 
-- **[Another Project](link-to-project)**
+- **[Finix Furniture Shop](link-to-your-furniture-shop-project)**
   <p align="left">
-    <img src="./images/YouTube_5.o.png" alt="Another Project Thumbnail" width="300" height="auto" />
+    <img src="./images/YouTube_5.o.png" alt="Furniture Shop Thumbnail" width="300" height="auto" />
   </p>
-  - **Description:** A brief overview of the project, its purpose, and what makes it stand out.
-  - **Key Features:** List of key features or functionalities.
-  - **Technologies Used:** Technologies or tools used in the project.
+  - **Description:** An e-commerce platform for furniture with a clean and intuitive interface for shopping and managing products.
+  - **Key Features:** Product catalog, shopping cart, user authentication, and admin panel.
+  - **Technologies Used:** React, Redux, Node.js, Express, MongoDB.
+
 
 
 For more information about me and my projects, visit my [personal website](https://personal-portfolio-nextjs-kappa.vercel.app) or connect with me on [LinkedIn](https://www.linkedin.com/in/iambasilp).
