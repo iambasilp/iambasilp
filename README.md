@@ -58,7 +58,7 @@ I'm an independent full-stack web developer specializing in the MERN stack. I th
 
 ### 🚀 Highlighted Projects
 
-- **[YouTube Clone](link-to-your-youtube-clone-project)**
+- **[YouTube Clone](link-to-your-youtube-clone-project)** <i class="fas fa-star"></i>
   <p align="left">
     <img src="./images/YouTube_5.o.png" alt="YouTube Clone Thumbnail" width="300" height="auto" />
   </p>
@@ -66,13 +66,14 @@ I'm an independent full-stack web developer specializing in the MERN stack. I th
   - Key Features: Video streaming, user authentication, video uploads, and commenting.
   - Technologies Used: React, Node.js, Express, MongoDB, JWT for authentication.
 
-- **[Finix Furniture Shop](link-to-your-furniture-shop-project)**
+- **[Finix Furniture Shop](link-to-your-furniture-shop-project)** <i class="fas fa-star"></i>
   <p align="left">
     <img src="./images/YouTube_5.o.png" alt="Furniture Shop Thumbnail" width="300" height="auto" />
   </p>
-  - **Description:** An e-commerce platform for furniture with a clean and intuitive interface for shopping and managing products.
-  - **Key Features:** Product catalog, shopping cart, user authentication, and admin panel.
-  - **Technologies Used:** React, Redux, Node.js, Express, MongoDB.
+  - Description: An e-commerce platform for furniture with a clean and intuitive interface for shopping and managing products.
+  - Key Features: Product catalog, shopping cart, user authentication, and admin panel.
+  - Technologies Used: React, Redux, Node.js, Express, MongoDB.
+
 
 
 
