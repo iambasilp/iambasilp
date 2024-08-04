@@ -18,8 +18,6 @@ I'm an independent full-stack web developer specializing in the MERN stack. I th
    </a>
 </p>
 
----
-
 ### 🧰 Languages and Tools
 
 #### Frontend
