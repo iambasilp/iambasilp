@@ -2,6 +2,9 @@
 
 **`Code Craftsman (Developer/Reader/Creator)`**
 
+[![Basil Pulikuth Social Banner](./images/instant.png)](https://personal-portfolio-nextjs-kappa.vercel.app/)
+
+
 I'm an independent full-stack web developer, specializing in the MERN stack, with a passion for solving problems in unconventional ways. From ideation to implementation, I thrive on building robust and innovative solutions that address real-world challenges. With a keen eye for detail and a knack for thinking outside the box, I approach each project with the determination to uncover the root cause of issues and implement unique fixes. While my focus is primarily on web development, I'm constantly seeking new opportunities to apply my skills and make a meaningful impact in the digital landscape.
 
 <p align="left">
