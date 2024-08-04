@@ -56,17 +56,7 @@ I'm an independent full-stack web developer specializing in the MERN stack. I th
 
 ---
 
-### 🚀 Highlighted Projects
 
-- **[YouTube Clone](link-to-your-youtube-clone-project)** <i class="fas fa-star"></i>
-  <p align="left">
-    <img src="./images/YouTube_5.o.png" alt="YouTube Clone Thumbnail" width="300" height="auto" />
-  </p>
-  - Description: A YouTube clone that mimics the functionality and user interface of the popular video-sharing platform. 
-  - Key Features: Video streaming, user authentication, video uploads, and commenting.
-  - Technologies Used: React, Node.js, Express, MongoDB, JWT for authentication.
-
-- **[Finix Furniture Shop](link-to-your-furniture-shop-project)** <i class="fas fa-star"></i>
   <p align="left">
     <img src="./images/YouTube_5.o.png" alt="Furniture Shop Thumbnail" width="300" height="auto" />
   </p>
