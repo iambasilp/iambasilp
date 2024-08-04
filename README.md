@@ -56,4 +56,23 @@ I'm an independent full-stack web developer specializing in the MERN stack. I th
 
 ---
 
+### 🚀 Highlighted Projects
+
+- **[Project Name](link-to-project)**
+  <p align="center">
+    <img src="./images/YouTube_5.o.png" alt="Project Name Thumbnail" width="300" height="auto" />
+  </p>
+  - **Description:** A brief overview of the project, its purpose, and what makes it stand out.
+  - **Key Features:** List of key features or functionalities.
+  - **Technologies Used:** Technologies or tools used in the project.
+
+- **[Another Project](link-to-project)**
+  <p align="center">
+    <img src="./images/YouTube_5.o.png" alt="Another Project Thumbnail" width="300" height="auto" />
+  </p>
+  - **Description:** A brief overview of the project, its purpose, and what makes it stand out.
+  - **Key Features:** List of key features or functionalities.
+  - **Technologies Used:** Technologies or tools used in the project.
+
+
 For more information about me and my projects, visit my [personal website](https://personal-portfolio-nextjs-kappa.vercel.app) or connect with me on [LinkedIn](https://www.linkedin.com/in/iambasilp).
