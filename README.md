@@ -57,13 +57,6 @@ I'm an independent full-stack web developer specializing in the MERN stack. I th
 ---
 
 
-  <p align="left">
-    <img src="./images/YouTube_5.o.png" alt="Furniture Shop Thumbnail" width="300" height="auto" />
-  </p>
-  - Description: An e-commerce platform for furniture with a clean and intuitive interface for shopping and managing products.
-  - Key Features: Product catalog, shopping cart, user authentication, and admin panel.
-  - Technologies Used: React, Redux, Node.js, Express, MongoDB.
-
 
 
 
