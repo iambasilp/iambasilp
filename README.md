@@ -13,9 +13,6 @@ I'm an independent full-stack web developer specializing in the MERN stack. I th
    <a href="https://personal-portfolio-nextjs-kappa.vercel.app" title="Visit my personal website">
       <img alt="Personal Website" src="https://img.shields.io/badge/-Personal%20Website-FF5733?style=for-the-badge"/>
    </a> 
-   <a href="https://link-to-your-resume.pdf" title="View my resume">
-      <img alt="Resume" src="https://img.shields.io/badge/-Resume-14455A?style=for-the-badge"/>
-   </a>
 </p>
 
 ### 🧰 Languages and Tools
