@@ -19,11 +19,10 @@ I'm an independent full-stack web developer, specializing in the MERN stack, wit
 ---
 
 ### 🧰 Languages and Tools
-<h2 align="center">🚀 Languages and Tools:</h2>
 <br/>
-<div align="center">
+<div align="left">
  
- <div align="center"><h3 align="center">Frontend</h3>
+ <div align="left"><h3 align="left">Frontend</h3>
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" align="center" alt="html5">
 <img src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" align="center" alt="css3">
 <img src ="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" align="center" alt="javascript">
